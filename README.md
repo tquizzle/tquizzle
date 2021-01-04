@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/tquizzle" target="blank"><img src="https://img.shields.io/twitter/follow/tquizzle?logo=twitter&style=for-the-badge" alt="tquizzle" /></a> </p>
 
-- 🔭 I’m currently working on **Protecting the Internets**
+- 🔭 I’m currently working on **Leadership and Engagement**.
 
-- 📝 I regulary write articles on [https://travisq.com](https://travisq.com)
+- 📝 I occasionally write articles on [https://travisq.com](https://travisq.com)
 
-- 💬 Ask me about **Virutalization, bash, linux, security, leadership**
+- 💬 Ask me about **Virutalization, bash, linux, security, leadership, engineering, architecture, etc...**
 
 - 📫 How to reach me **me@travisq.com**
 
 - 📄 Know about my experiences [https://resume.travisq.com](https://resume.travisq.com)
 
-- ⚡ Fun fact **I'm mostly ambidextrous!**
+- ⚡ Fun fact **I'm mostly ambidextrous and love to DJ!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
