@@ -15,7 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
+<a href="https://twitter.com/tquizzle"><img src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter" /></a>
+<a href="https://linkedin.com/in/tquinnelly"><img src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn" /></a>
+<a href="https://instagram.com/tquinnelly"><img src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram" /></a>
+
 [![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://twitter.com/tquizzle)
   
 [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://linkedin.com/in/tquinnelly)
@@ -30,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tquizzle&show_icons=true&locale=en&layout=compact" alt="tquizzle" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tquizzle&show_icons=true&locale=en" alt="tquizzle" /></p>
-
-[![Visitor Counter for tquizzle](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=tquizzle)}](https://pimp-my-readme.webapp.io)
