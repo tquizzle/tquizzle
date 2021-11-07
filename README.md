@@ -15,9 +15,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 [![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://twitter.com/tquizzle)
+  
 [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://linkedin.com/in/tquinnelly)
+  
 [![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://instagram.com/tquinnelly)
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tquizzle&show_icons=true&locale=en&layout=compact" alt="tquizzle" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tquizzle&show_icons=true&locale=en" alt="tquizzle" /></p>
+
 [![Visitor Counter for tquizzle](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=tquizzle)}](https://pimp-my-readme.webapp.io)
