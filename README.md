@@ -9,17 +9,15 @@
 
 - 💬 Ask me about **Virutalization, bash, linux, security, leadership, engineering, architecture, etc...**
 
-- 📫 How to reach me **me@travisq.com**
-
 - 📄 Know about my experiences [https://resume.travisq.com](https://resume.travisq.com)
 
 - ⚡ Fun fact **I'm mostly ambidextrous and love to DJ!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tquizzle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tquizzle" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tquinnelly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tquinnelly" height="30" width="40" /></a>
-<a href="https://instagram.com/tquinnelly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="tquinnelly" height="30" width="40" /></a>
+[![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://twitter.com/tquizzle)
+[![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://linkedin.com/in/tquinnelly)
+[![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://instagram.com/tquinnelly)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,3 +26,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tquizzle&show_icons=true&locale=en&layout=compact" alt="tquizzle" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tquizzle&show_icons=true&locale=en" alt="tquizzle" /></p>
+[![Visitor Counter for tquizzle](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=tquizzle)}](https://pimp-my-readme.webapp.io)
