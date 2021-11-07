@@ -23,5 +23,4 @@
 [![HTML_CSS_AWS_Elasticsearch_Docker](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=HTML_CSS_AWS_Elasticsearch_Docker)](https://pimp-my-readme.webapp.io)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tquizzle&show_icons=true&locale=en&layout=compact" alt="tquizzle" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tquizzle&show_icons=true&locale=en" alt="tquizzle" /></p>
