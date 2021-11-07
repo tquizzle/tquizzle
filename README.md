@@ -15,16 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tquizzle"><img src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter" /></a>
-<a href="https://linkedin.com/in/tquinnelly"><img src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn" /></a>
-<a href="https://instagram.com/tquinnelly"><img src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram" /></a>
-
-[![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://twitter.com/tquizzle)
-  
-[![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://linkedin.com/in/tquinnelly)
-  
-[![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://instagram.com/tquinnelly)
-  
+  <a href="https://twitter.com/tquizzle"><img src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter" /></a>
+  <a href="https://linkedin.com/in/tquinnelly"><img src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn" /></a>
+  <a href="https://instagram.com/tquinnelly"><img src="https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram" /></a>
 </p>
 
 [![HTML_CSS_AWS_Elasticsearch_Docker](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=HTML_CSS_AWS_Elasticsearch_Docker)](https://pimp-my-readme.webapp.io)
