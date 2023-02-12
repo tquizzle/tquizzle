@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Leadership and Engagement**.
 
-- 📝 I occasionally write articles on [https://travisq.com](https://travisq.com)
+- 📝 I occasionally write articles on [TravisQ.com](https://travisq.com)
 
 - 💬 Ask me about **Virutalization, bash, linux, security, leadership, engineering, architecture, microservices, etc...**
 
