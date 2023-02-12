@@ -34,14 +34,11 @@
 
 **Docker Contribs**
 
-***ClamAV-Alpine***
+__**ClamAV-Alpine**__
 
 ![Docker Pulls](https://img.shields.io/docker/pulls/tquinnelly/clamav-alpine?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/tquizzle/clamav-alpine?style=for-the-badge)
 
-**Things Up**
-
-![Personal Website](https://img.shields.io/website?down_color=red&down_message=DOWN&up_color=green&up_message=UP&url=https%3A%2F%2Ftravisq.com?style=for-the-badge)
 
 <br>
 
