@@ -10,8 +10,6 @@
 
 **About me**
 
-<picture><img align="right" src = "https://travisq.com/uploads/profile-pic-(1).png?_cchid=c3aa6a914b653421e3f0f2d41c7fd507" width = 250px></picture> 
-
 <br>
 
 - 🔭 I’m currently working on **Leadership and Engagement**.
