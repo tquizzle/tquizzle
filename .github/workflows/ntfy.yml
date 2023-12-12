@@ -24,6 +24,7 @@ jobs:
         with:
           url: 'https://ntfy.sh'
           topic: "${{ secrets.TOPICTONOTIFY }}"
+          title: Site Down!
           priority: 5
-          tags: +1,action,failed
-          details: OMG Site down!
+          tags: +1,action,failed,sad_face
+          details: Site down!
