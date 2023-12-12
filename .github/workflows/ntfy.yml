@@ -25,7 +25,7 @@ jobs:
         if: failure()
         with:
           url: 'https://ntfy.sh'
-          topic: '$topic'
+          topic: "${{ secrets.TOPICTONOTIFY }}"
           priority: 5
           tags: +1,action,failed
           details: Site down!
