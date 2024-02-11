@@ -7,7 +7,6 @@
 
 <br>
 
-
 **About me**
 
 <br>
@@ -32,14 +31,17 @@
 
 **Docker Contribs**
 
-__**ClamAV-Alpine**__
+__*[*ClamAV-Alpine](https://github.com/tquizzle/clamav-alpine)**__
 
 ![Docker Pulls](https://img.shields.io/docker/pulls/tquinnelly/clamav-alpine?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/tquizzle/clamav-alpine?style=for-the-badge)
 
+__*[*Ghost-Docker](https://github.com/tquizzle/ghost-docker)**__
+
+![Build Status](https://img.shields.io/github/actions/workflow/status/tquizzle/ghost-docker/.github%2Fworkflows%2Fdocker-image.yml?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/tquizzle/ghost-docker?style=for-the-badge)
 
 <br>
-
 
 **Softwares and Tools**:
 
@@ -90,9 +92,6 @@ __**ClamAV-Alpine**__
 
 <a href="https://linkedin.com/in/tquinnelly" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  tquinnelly-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>&nbsp;
-<a href="https://twitter.com/tquizzle" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  tquizzle-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </div>
 
