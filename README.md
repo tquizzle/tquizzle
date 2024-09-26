@@ -7,22 +7,6 @@
 
 <br>
 
-**About me**
-
-<br>
-
-- 🔭 I’m currently working on **Leadership and Engagement**.
-
-- 📝 I occasionally write articles on [TravisQ.com](https://travisq.com)
-
-- 💬 Ask me about **Virutalization, bash, linux, security, leadership, engineering, architecture, microservices, etc...**
-
-- ⚡ Fun fact **I'm mostly ambidextrous and love to DJ!**
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 <p align="center">
 
 ### Docker Contribs
@@ -50,9 +34,6 @@ Softwares and Tools
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=tquizzle&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
@@ -65,12 +46,3 @@ Softwares and Tools
 
 <br>
 <br>
-
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<a href="https://linkedin.com/in/tquinnelly" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  tquinnelly-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</div>
