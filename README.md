@@ -17,7 +17,9 @@
 
 <br>
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="./github-metrics.svg" alt="Metrics">
 </picture>
 
-![Metric Insights](./metrics.insights.html)
+<picture>
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
+</picture>
