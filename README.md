@@ -16,3 +16,6 @@
 ![GitHub issues](https://img.shields.io/github/issues/tquizzle/ghost-docker?style=for-the-badge)
 
 <br>
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
