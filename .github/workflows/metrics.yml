@@ -20,3 +20,9 @@ jobs:
           template: "@classic"
           setup_community_templates: lowlighter/metrics@master:classic
 
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.insights.html
+          config_output: insights
+
