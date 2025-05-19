@@ -19,12 +19,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           template: "@classic"
           setup_community_templates: lowlighter/metrics@master:classic
+      
 
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.insights.html
-          config_output: insights
+      # - uses: lowlighter/metrics@latest
+      #   with:
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     filename: metrics.insights.html
+      #     config_output: insights
 
       - uses: lowlighter/metrics@latest
         with:
@@ -44,6 +45,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           repo: clamav-alpine
+          user: tquizzle
           template: repository
           filename: clamav-alpine.repository.svg
           plugin_lines: yes
@@ -54,8 +56,19 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           repo: ghost-docker
+          user: tquizzle
           template: repository
           filename: ghost-docker.repository.svg
           plugin_lines: yes
           plugin_followup: yes
           plugin_projects: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.charts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: America/Chicago
