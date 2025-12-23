@@ -65,6 +65,17 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          repo: bringwhat
+          user: tquizzle
+          template: repository
+          filename: bringwhat.repository.svg
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_projects: yes
+
+      - uses: lowlighter/metrics@latest
+        with:
           filename: metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
