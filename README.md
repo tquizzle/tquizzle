@@ -5,6 +5,17 @@
 
 ### Docker Contribs
 
+- name: Featured Repositories Breakdown
+  uses: lowlighter/metrics@latest
+  with:
+    filename: metrics.plugin.repositories.svg
+    token: ${{ secrets.METRICS_TOKEN }}
+    base: ""
+    plugin_repositories: yes
+    plugin_repositories_featured: tquizzle/clamav-alpine, tquizzle/ghost-docker
+
+
+
 [ClamAV-Alpine](https://github.com/tquizzle/clamav-alpine)
 
 ![Docker Pulls](https://img.shields.io/docker/pulls/tquinnelly/clamav-alpine?style=for-the-badge)
